@@ -1,0 +1,9 @@
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/ServerTcpTest.dir
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/ServerTcpTest_autogen_timestamp_deps.dir
+C:/Onyx/ServerTCP_SCPI_QtNetwork/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/ServerTcpTest_autogen.dir
